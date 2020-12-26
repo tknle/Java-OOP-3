@@ -1,9 +1,6 @@
 # Java Object Oriented Programming 3
 Java Programming by Duke University on Coursera
 
-## The project has been built with
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 ## Description
 Learning Java new data structures. Use these data structures to build more complex programs that use 
 Java’s object-oriented features. <br /> Build an encryption program and a program to break your encryption 
@@ -23,9 +20,8 @@ algorithm.
 - Hash Table
 - Java Programming
 
-## Build by
-- BlueJ 
-
+## Build with
+- BlueJ  <br />
 **Suggest using BlueJ to run this project**.
 
 ## Author
